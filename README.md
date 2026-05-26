@@ -1,10 +1,13 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:00b4d8,100:023e8a&height=180&section=header&text=Vinícius%20Caetano%20de%20Assis&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Analista%20de%20Dados%20Júnior%20·%20Python%20·%20SQL%20·%20Machine%20Learning&descAlignY=72&descSize=15)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:00b4d8,100:023e8a&height=200&section=header&text=Vinícius%20Caetano%20de%20Assis&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Analista%20de%20Dados%20Júnior%20·%20Python%20·%20SQL%20·%20Machine%20Learning&descAlignY=72&descSize=16" width="100%"/>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciusasiss/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caetanodassis@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caetanodassis)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561991292111)
 
 </div>
 
@@ -12,23 +15,75 @@
 
 ### 👨‍💻 Sobre mim
 
-Analista de Dados Júnior, 20 anos, Brasília-DF. Estagiário na **Caixa Econômica Federal** 
-em Inteligência de Dados e Data Science — transformo grandes volumes de dados em insights 
-estratégicos. Cursando **Análise e Desenvolvimento de Sistemas** (UNIEURO, 5º sem).
+Sou Vinícius Caetano de Assis, 20 anos, natural de Brasília-DF. Estagiário na **Caixa Econômica Federal** na área de Inteligência de Dados e Data Science, transformando grandes volumes de dados em insights estratégicos. Cursando **Análise e Desenvolvimento de Sistemas** na UNIEURO (5º semestre).
 
 ---
 
-### 🛠️ Stack Principal
+### 🛠️ Linguagens
 
-```
-Linguagens      Python ████████████████████░░░ 90%   SQL    ██████████████████░░░░░ 88%
-Analytics       Pandas ████████████████████░░░ 85%   NumPy  ██████████████░░░░░░░░░ 70%
-ML / Ciência    Scikit-learn ████████████████░░░░ 75%
-Banco de Dados  PostgreSQL ████████████████░░░░ 78%   MySQL & SQL Server
-Plataformas     Databricks ████████████████░░░░ 72%   Jupyter ████████████████████░░ 85%
-BI / Viz        Power BI ████████████████████░░ 80%   Excel  ████████████████████░░ 80%
-Dev Tools       Git  ████████████████░░░░░░░ 75%   VS Code ██████████████████░░░░ 88%
-```
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+### 📊 Análise de Dados
+
+<div align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+### 🤖 Machine Learning
+
+<div align="center">
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+</div>
+
+---
+
+### 🗄️ Bancos de Dados
+
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+</div>
+
+---
+
+### 📈 BI & Visualização
+
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
+
+---
+
+### ⚙️ Plataformas & Ferramentas
+
+<div align="center">
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
@@ -37,15 +92,15 @@ Dev Tools       Git  ████████████████░░░�
 <div align="center">
 
 <a href="https://github.com/Caetanodassis">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Caetanodassis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&ring_color=00b4d8"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caetanodassis&layout=donut-vertical&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caetanodassis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&ring_color=00b4d8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caetanodassis&layout=donut-vertical&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9"/>
 </a>
 
 </div>
 
 <div align="center">
 
-[![Streak](https://streak-stats.demolab.com?user=Caetanodassis&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&dates=c9d1d9&sideLabels=c9d1d9&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Caetanodassis&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&dates=c9d1d9&sideLabels=c9d1d9&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
@@ -55,24 +110,25 @@ Dev Tools       Git  ████████████████░░░�
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [Análise Hospitalar](https://github.com/Caetanodassis/analise_atendimentos_hospitalares_sql) | Análise de atendimentos hospitalares com SQL | SQL · PostgreSQL |
+| [Análise de Atendimento Hospitalar](https://github.com/Caetanodassis/analise_atendimentos_hospitalares_sql) | Análise de atendimentos hospitalares com SQL | SQL · PostgreSQL |
 | [Copa do Mundo](https://github.com/Caetanodassis/copa_do_mundo_analise_de_dados_sql) | Análise de dados dos jogos da Copa | SQL · Python |
-| [Nomes de Bebês EUA](https://github.com/Caetanodassis/analise_nomes_bebes_eua_sql) | Tendências de nomes nos EUA | SQL |
-| [Licença Médica](https://github.com/Caetanodassis/Licencia_medica_analise_dados) | Análise de absenteísmo | Python · Jupyter |
+| [Nomes de Bebês EUA](https://github.com/Caetanodassis/analise_nomes_bebes_eua_sql) | Tendências históricas de nomes nos EUA | SQL |
+| [Licença Médica](https://github.com/Caetanodassis/Licencia_medica_analise_dados) | Análise de absenteísmo e licenças médicas | Python · Jupyter |
 
 ---
 
 ### 💼 Experiência
 
 ```
-🏦 Caixa Econômica Federal — Estagiário em Inteligência de Dados (2025–Presente)
+🏦 Caixa Econômica Federal — Estagiário de Inteligência de Dados (2025–Presente)
    ├─ Machine Learning: regressão e classificação para tendências bancárias
+   ├─ Data Analytics: análise de correlação e estudos de absenteísmo
    ├─ Detecção de Anomalias em bases de larga escala com ML
-   ├─ ETL com Python e Databricks
-   └─ Dashboards estratégicos em Power BI
+   ├─ Engenharia de Dados: ETL com Python e Databricks
+   └─ Visualização: dashboards estratégicos em Power BI
 
 🎓 Fábrica de Software — UNIEURO (2025 · 105h)
-   ├─ Modelagem SQL Server, PostgreSQL e MySQL
+   ├─ Modelagem de bases SQL Server, PostgreSQL e MySQL
    └─ Stored Procedures e otimização de queries
 ```
 
@@ -86,14 +142,14 @@ Dev Tools       Git  ████████████████░░░�
 | 📊 Power BI (DAX) | Data Science Academy | 2024 |
 | 🔬 Ciência de Dados com Python e R | Udemy | 2024 |
 | 💡 Lógica de Programação | Trybe | 2024 |
-| 🏗️ POO | Bradesco | 2024 |
+| 🏗️ Programação Orientada a Objetos | Bradesco | 2024 |
 | 📋 Excel Express | Simplifica | 2023 |
 
 ---
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:023e8a,100:00b4d8&height=90&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:023e8a,100:00b4d8&height=100&section=footer" width="100%"/>
 
 *"Sem dados, você é apenas mais uma pessoa com uma opinião." — W. Edwards Deming*
 
