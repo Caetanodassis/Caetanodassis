@@ -69,7 +69,7 @@ Me chamo Vinícius Caetano de Assis, tenho 20 anos e sou natural de Brasília, D
 
 <div align="center">
 
-[Analise de Atendimento Hospitalar]([https://github.com/Caetanodassis](https://github.com/Caetanodassis/analise_atendimentos_hospitalares_sql))
+[Analise de Atendimento Hospitalar](https://github.com/Caetanodassis/analise_atendimentos_hospitalares_sql)
 
 
 [Analise de Jogos da Copa do Mundo](https://github.com/Caetanodassis/copa_do_mundo_analise_de_dados_sql)
