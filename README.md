@@ -106,11 +106,6 @@ Me chamo Vinícius Caetano de Assis, tenho 20 anos e sou natural de Brasília, D
 
 ---
 
-### 🐍 Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Caetanodassis/Caetanodassis/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
