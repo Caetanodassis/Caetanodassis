@@ -69,8 +69,8 @@ Me chamo Vinícius Caetano de Assis, tenho 20 anos e sou natural de Brasília, D
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caetanodassis&repo=analise-absenteismo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9)](https://github.com/Caetanodassis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caetanodassis&repo=deteccao-anomalias&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9)](https://github.com/Caetanodassis)
+[![Analise de Atendimento Hospitalar]([https://github-readme-stats.vercel.app/api/pin/?username=Caetanodassis&repo=analise-absenteismo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9)](https://github.com/Caetanodassis)](https://github.com/Caetanodassis/analise_atendimentos_hospitalares_sql)
+[![Analise de Jogos da Copa do Mundo]([https://github-readme-stats.vercel.app/api/pin/?username=Caetanodassis&repo=deteccao-anomalias&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9)](https://github.com/Caetanodassis](https://github.com/Caetanodassis/copa_do_mundo_analise_de_dados_sql))
 
 </div>
 
