@@ -117,8 +117,6 @@ Me chamo Vinícius Caetano de Assis, tenho 20 anos e sou natural de Brasília, D
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:023e8a,100:00b4d8&height=100&section=footer" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Caetanodassis&color=00b4d8&style=flat-square&label=Visitas+ao+perfil)
-
 *"Sem dados, você é apenas mais uma pessoa com uma opinião." — W. Edwards Deming*
 
 </div>
