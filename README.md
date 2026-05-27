@@ -39,6 +39,7 @@ Sou Vinícius Caetano de Assis, 20 anos, natural de Brasília-DF. Estagiário na
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
+
 ---
 
 ### 📊 Estatísticas do GitHub
