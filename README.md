@@ -42,25 +42,6 @@ Sou Vinícius Caetano de Assis, 20 anos, natural de Brasília-DF. Estagiário na
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<a href="https://github.com/Caetanodassis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caetanodassis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&ring_color=00b4d8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caetanodassis&layout=donut-vertical&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9"/>
-</a>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Caetanodassis&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&dates=c9d1d9&sideLabels=c9d1d9&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ### 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Stack |
