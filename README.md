@@ -47,8 +47,8 @@ Sou Vinícius Caetano de Assis, 20 anos, natural de Brasília-DF. Estagiário na
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [Análise de Atendimento Hospitalar](https://github.com/Caetanodassis/analise_atendimentos_hospitalares_sql) | Análise de atendimentos hospitalares com SQL | SQL · PostgreSQL |
-| [Copa do Mundo](https://github.com/Caetanodassis/copa_do_mundo_analise_de_dados_sql) | Análise de dados dos jogos da Copa | SQL · Python |
-| [Nomes de Bebês EUA](https://github.com/Caetanodassis/analise_nomes_bebes_eua_sql) | Tendências históricas de nomes nos EUA | SQL |
+| [Copa do Mundo](https://github.com/Caetanodassis/copa_do_mundo_analise_de_dados_sql) | Análise de dados dos jogos da Copa | SQL |
+| [Nomes de Bebês EUA](https://github.com/Caetanodassis/analise_nomes_bebes_eua_sql) | Tendências históricas de nomes nos EUA | SQL · Python  |
 | [Licença Médica](https://github.com/Caetanodassis/Licencia_medica_analise_dados) | Análise de absenteísmo e licenças médicas | Python · Jupyter |
 
 ---
@@ -74,9 +74,9 @@ Sou Vinícius Caetano de Assis, 20 anos, natural de Brasília-DF. Estagiário na
 
 | Certificação | Instituição | Ano |
 |---|---|---|
-| 🐍 Python para Data Science & ML | Data Science Academy | 2024 |
-| 📊 Power BI (DAX) | Data Science Academy | 2024 |
-| 🔬 Ciência de Dados com Python e R | Udemy | 2024 |
+| 🐍 Python para Data Science & ML | Data Science Academy | 2025 |
+| 📊 Power BI (DAX) | Data Science Academy | 2026 |
+| 🔬 Ciência de Dados com Python e R | Udemy | 2026 |
 | 💡 Lógica de Programação | Trybe | 2024 |
 | 🏗️ Programação Orientada a Objetos | Bradesco | 2024 |
 | 📋 Excel Express | Simplifica | 2023 |
