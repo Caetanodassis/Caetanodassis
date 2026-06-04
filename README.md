@@ -46,7 +46,7 @@ Sou Vinícius Caetano de Assis, 20 anos, natural de Brasília-DF. Estagiário na
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [Análise de Atendimento Hospitalar](https://github.com/Caetanodassis/analise_atendimentos_hospitalares_sql) | Análise de atendimentos hospitalares com SQL | SQL |
+| [Titanic ML]([(https://github.com/Caetanodassis/titanic_ML)]) | Classificação de sobrevivencia | Python |
 | [Copa do Mundo](https://github.com/Caetanodassis/copa_do_mundo_analise_de_dados_sql) | Análise de dados dos jogos da Copa | SQL |
 | [Nomes de Bebês EUA](https://github.com/Caetanodassis/analise_nomes_bebes_eua_sql) | Tendências históricas de nomes nos EUA | SQL · Python  |
 | [Licença Médica](https://github.com/Caetanodassis/Licencia_medica_analise_dados) | Análise de absenteísmo e licenças médicas | Python · Jupyter |
