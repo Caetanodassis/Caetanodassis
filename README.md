@@ -1,91 +1,84 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Vin%C3%ADcius%20Caetano&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Dados%20%26%20Automa%C3%A7%C3%A3o%20com%20IA&descAlignY=55&descAlign=50" />
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/viniciusasiss" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:caetanodassis@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://wa.me/5561991292111">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
+  <h1>Olá, eu sou o Vinícius Caetano 👋</h1>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=700&lines=Analista+de+Dados+%26+Automação+com+IA;Especialista+em+Python,+SQL+e+Machine+Learning;Desenvolvimento+de+Agentes+LLMs+e+Pipelines;Engenharia+de+Dados+%26+RPA" alt="Typing SVG" />
+  </p>
+  <a href="https://linkedin.com/in/viniciusasiss" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:caetanodassis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/5561991292111"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
 
 <br>
 
-## 👨🏻‍💻 Sobre Mim
+## 🚀 Sobre Mim
 
-Sou de Brasília-DF, formado em **Análise e Desenvolvimento de Sistemas (UNIEURO)** e atualmente pós-graduando em **AI Scientist pela FIAP**. 
+Sou um **Analista de Dados e Automação com IA**, focado em transformar processos manuais em fluxos inteligentes e escaláveis. Com formação em Análise e Desenvolvimento de Sistemas (UNIEURO) e especialização em AI Scientist (FIAP), atuo na interseção entre Engenharia de Dados, Inteligência Artificial e Automação.
 
-Minha trajetória começou na **Caixa Econômica Federal** com análise de grandes volumes de dados (BI, Machine Learning e Detecção de Anomalias). Hoje, atuo como **Analista de Automação de Processos com IA na Exact Contábil**, onde meu foco é integrar **Python**, **LLMs (Gemini, Claude)** e ferramentas de **RPA** para eliminar trabalhos manuais e construir pipelines eficientes e confiáveis.
-
-- 🚀 **Foco atual:** Agentes de IA, Pipelines de Dados (Medallion Architecture) e Automação Escalável.
-- 💡 **Interesses:** Engenharia de Prompt, Text-to-SQL, Arquitetura de Software e Cloud.
-- 💻 **Setup:** Dual-boot (Linux Ubuntu / Windows 11), VS Code, Docker e PostgreSQL.
+- 🏢 **Atual:** Analista de Automação de Processos com IA na **Exact Contábil**, construindo pipelines integrados com LLMs (Gemini, Claude) e arquitetura RPA.
+- 🏦 **Anterior:** Inteligência de Dados & Data Science na **Caixa Econômica Federal** (Detecção de anomalias, monitoramento de ML NBO e BI).
+- 🎯 **Foco Técnico:** Desenvolvimento de Agentes de IA (Text-to-SQL), Arquitetura de Dados (Medallion) e Automação Escalável (Python/RPA).
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## ⚙️ Hard Skills & Tecnologias
 
-Aqui estão as principais tecnologias que utilizo no meu dia a dia:
-
-<div align="center">
-
-  **Linguagens & Bancos de Dados** <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
-  <br> **Análise, Engenharia de Dados & ML** <br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-  <br> **IA Generativa & Automação** <br>
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RPA_&_n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-
-  <br> **DevOps & Ferramentas** <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>Linguagens & Bancos</b></td>
+    <td align="center" width="25%"><b>Data Science & BI</b></td>
+    <td align="center" width="25%"><b>IA & Automação</b></td>
+    <td align="center" width="25%"><b>DevOps & Setup</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <br>
+      <img src="https://skillicons.dev/icons?i=python,postgres,mysql&perline=3" />
+      <br><br>
+    </td>
+    <td align="center">
+      <br>
+      <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,aws&perline=3" /><br>
+      <i>Pandas, NumPy, PowerBI</i>
+      <br><br>
+    </td>
+    <td align="center">
+      <br>
+      <img src="https://skillicons.dev/icons?i=gcp,idea,bots&perline=3" /><br>
+      <i>LangChain, Gemini, Claude, RPA</i>
+      <br><br>
+    </td>
+    <td align="center">
+      <br>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&perline=3" />
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📂 Projetos em Destaque
+## 📈 Projetos de Impacto
 
-| Projeto | Descrição | Tecnologias |
+| 🏆 Projeto | 📝 Descrição e Impacto | 🛠 Tecnologias |
 | :--- | :--- | :--- |
-| **[BI Copiloto (Text-to-SQL)](#)** | Agente de IA generativa que converte linguagem natural em consultas SQL complexas. Aplicado no dataset de e-commerce da Olist. | `Python`, `LangChain`, `Gemini`, `PostgreSQL`, `Streamlit` |
-| **[Automação de Relatórios por E-mail](#)** | Sistema de disparo automatizado associando PDFs a clientes via Excel. Reduziu o tempo de envio manual de horas para minutos. | `Python`, `SMTP/IMAP`, `openpyxl`, `pytest`, `Actions` |
-| **[Pipeline de Dados BACEN](#)** | Arquitetura Medalhão (Bronze/Silver/Gold) para ingestão e tratamento de indicadores macroeconômicos via API do Banco Central. | `Python`, `SQL`, `ETL`, `GitHub Actions` |
-| **[Análise Paralela de Logs HTTP](#)** | Script em multiprocessamento para detecção de anomalias (4xx/5xx) em servidores Apache/Nginx, com speedup de 5.48x. | `Python`, `multiprocessing`, `mmap` |
+| **[BI Copiloto: Agente Text-to-SQL](#)** | Agente de IA Generativa que converte linguagem natural em consultas SQL complexas. Aplicado ao dataset de e-commerce da Olist. | `Python`, `LangChain`, `Gemini`, `PostgreSQL` |
+| **[Automação de Relatórios por E-mail](#)** | Pipeline automatizado de disparo de e-mails processando PDFs e Excel. **Redução de tempo manual em 72%** e lotes processados em menos de 10 minutos. | `Python`, `SMTP`, `openpyxl`, `pytest`, `Docker` |
+| **[Pipeline de Dados BACEN](#)** | Arquitetura Medalhão (Bronze/Silver/Gold) para ingestão automatizada e tratamento de indicadores macroeconômicos via API do Banco Central. | `Python`, `SQL`, `ETL`, `GitHub Actions` |
+| **[Análise de Logs em Paralelo](#)** | Sistema otimizado para detecção de anomalias (erros 4xx/5xx) em logs de servidores Apache/Nginx, com **speedup de 5.48x**. | `Python`, `multiprocessing`, `mmap` |
 
-*(Nota: Adicione os links reais dos seus repositórios substituindo o `#` nas URLs acima).*
+*(Nota: Lembre-se de substituir os `#` pelos links reais dos seus repositórios).*
 
 ---
 
-## 📊 Minhas Estatísticas
+## 📊 Analytics do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caetanodassis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caetanodassis&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Caetanodassis&show_icons=true&theme=transparent&hide_border=true&title_color=2E86C1&icon_color=2E86C1&text_color=A6A6A6&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caetanodassis&layout=compact&theme=transparent&hide_border=true&title_color=2E86C1&text_color=A6A6A6&bg_color=0D1117" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <i>"Automatizando o tédio para focar na inteligência."</i><br><br>
-  <img src="https://profile-counter.glitch.me/Caetanodassis/count.svg" alt="Visitor Count" />
+  <i>"Automatizando o tédio para focar na inteligência."</i>
 </div>
