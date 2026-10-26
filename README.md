@@ -28,7 +28,7 @@ Sou um **Analista de Dados e Automação com IA**, focado em transformar process
 
 - **Linguagens & Bancos:** Python, SQL (PostgreSQL, MySQL, SQL Server)
 - **Data Science & BI:** Pandas, NumPy, Scikit-learn, Databricks, Power BI (DAX)
-- **IA Generativa & Automação:** LangChain, Google Gemini API, Claude, Agentes Text-to-SQL, RPA (Eliza/Synpse Robotic)
+- **IA Generativa & Automação:** LangChain, Google Gemini API, Claude, Agentes Text-to-SQL, RPA
 - **DevOps & Ferramentas:** Git, GitHub Actions, Docker, pytest, VS Code, Streamlit, Arquitetura Medalhão
 
 ---
@@ -51,4 +51,10 @@ Sou um **Analista de Dados e Automação com IA**, focado em transformar process
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Caetanodassis&show_icons=true&theme=transparent&hide_border=true&title_color=2E86C1&icon_color=2E86C1&text_color=A6A6A6" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caetanodassis&layout=compact&theme=transparent&hide_border=true&title_color=2E86C1&text_color=A6A6A6&hide=html,css,php,java" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>"Automatizando o tédio para focar na inteligência."</i>
 </div>
