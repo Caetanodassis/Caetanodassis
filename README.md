@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um **Analista de Dados e Automação com IA**, focado em transformar processos manuais em fluxos inteligentes e escaláveis. Com formação em Análise e Desenvolvimento de Sistemas (UNIEURO) e especialização em AI Scientist (FIAP), atuo na interseção entre Engenharia de Dados, Inteligência Artificial e Automação.
+Sou um **Analista de Dados e Automação com IA**, focado em transformar processos manuais em fluxos inteligentes e escaláveis. Com formação em Análise e Desenvolvimento de Sistemas (UNIEURO) e especialização em AI Scientist (FIAP), atuo na interseção entre Ciência de Dados, Inteligência Artificial e Automação.
 
 - 🏢 **Atual:** Analista de Automação de Processos com IA na **Exact Contábil**, construindo pipelines integrados com LLMs (Gemini, Claude) e arquitetura RPA.
 - 🏦 **Anterior:** Inteligência de Dados & Data Science na **Caixa Econômica Federal** (Detecção de anomalias, monitoramento de ML NBO e BI).
